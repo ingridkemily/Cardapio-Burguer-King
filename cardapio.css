@@ -1,0 +1,107 @@
+
+
+.wrapper-title {
+    color: #502314;
+    font-family: Verdana;
+    font-size: 48px;
+    font-style: normal;
+    font-weight: bold;
+    margin-bottom: 20px;
+}
+
+.wrapper-category {
+    color: #502314;
+    font-family: Verdana;
+    font-size: 25px;
+    font-style: normal;
+    font-weight: bold;
+}
+
+.cardapio-card {
+    margin-bottom: 15px;
+    margin: 6px;
+    position: relative;
+    display: inline-block;
+}
+
+.wrapper-thumbnail{
+    max-height: 250px;
+    width: 300px;
+    border-radius: 8px;
+    background-color: rgb(242, 229, 212);    
+    border: 0.5px solid;
+    border-color: #502314;
+}
+
+.card-total{
+    margin-bottom: 5px;
+    margin-top: 5px;
+    position: relative;
+    display: inline-block;
+}
+
+.img-cardapio{
+    width: 300px;
+    height: 250px;
+}
+
+.container{
+    position: absolute; right: 100px; left: 100px;
+}
+
+a:link{
+    text-decoration: none;
+}
+
+a:hover{
+    font-size: 18px;
+    transition-delay: 5ms;
+}
+
+h3{
+    color: #502314;
+    font-family: Verdana;
+    font-size: 20px;
+    font-style: normal;
+    font-weight: bold;
+}
+
+.div-flex { 
+    display: flex; 
+    align-items: center; 
+    justify-content: center;
+}
+
+p{
+    text-align: justify;
+    font-size: 10px;
+    color: #502314;
+    font-family: Verdana;
+}
+
+.img-logo{
+    width: 100px;
+    height: 100px;
+    position: absolute; 
+    top: 10; 
+    right: 140px;
+}
+
+.cabecalho{
+    margin-left: 100px;
+}
+
+.container-tel{
+    margin-top: 1250px;
+    align-items: center;
+    position: relative;
+    display: flex;
+}
+.tel{
+    color: #502314;
+    font-family: Verdana;
+    font-size: 15px;
+    font-style: normal;
+    font-weight: bold;
+    white-space: nowrap;
+}
